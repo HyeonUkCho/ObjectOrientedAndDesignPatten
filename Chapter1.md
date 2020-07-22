@@ -3,7 +3,7 @@ Chapter1
 
 ## 지저분해지는 코드
 
-![bootstrap_menu_screenshot](../images/Bootstrap_menu_image.png)
+![bootstrap_menu_screenshot](./images/Bootstrap_menu_image.png)
 
 - 위와 같은 UI를 갖는 클라이언트 프로그램을 개발한다고 했을 때, 아래와 같이 코드를 작성할 수 있다.
 ```java
