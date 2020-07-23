@@ -38,12 +38,12 @@ public class Application implements OnClickListener {
     }
 
     private void changeUIToMenu1() {
-        currentMenu - "menu1";
+        currentMenu = "menu1";
         System.out.println("메뉴1 화면으로 전환");
     }
 
     private void changeUIToMenu2() {
-        currentMenu - "menu2";
+        currentMenu = "menu2";
         System.out.println("메뉴2 화면으로 전환");
     }
 
